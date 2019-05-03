@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VSCodeRemote</string>
+    <string name="title_activity_server_connect">VSCodeRemote</string>
+    <string name="filter_http_s">Filter</string>
+</resources>
